@@ -10,3 +10,7 @@ This project was developed during my cybersecurity internship at CodeAlpha. The 
 
 ## How to View
 The complete detailed campaign strategy, along with the mock templates and visual breakdowns, is available in the attached project documentation.
+
+## Interactive Assessment
+Test your knowledge with the live campaign assessment!
+* [👉 Click Here to take the Phishing Awareness Quiz](https://forms.gle/LQKsG1TbsUr4111eA)
